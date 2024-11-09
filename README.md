@@ -10,7 +10,7 @@ Difficulty : very easy (5mins max)
 
 - Get the flag
 
-## Requierments
+## Requirements
 
 - Veracrypt (to mount the container once you have the password)
 
