@@ -1,3 +1,5 @@
+Difficulty : very easy (5mins max)
+
 ## How to do
 
 - Find the hash type
