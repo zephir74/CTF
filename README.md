@@ -4,7 +4,7 @@ Difficulty : very easy (5mins max)
 
 - Find the hash type
 
-- Decrypt the hash
+- Get the password
 
 - Open the container
 
